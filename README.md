@@ -8,7 +8,7 @@
         None
 
         ## Screenshot
-        ![Alt Text](https://github.com/Alien-oyi/module9/blob/main/library/img/Screenshot%20(153).png)
+        ![Alt Text](https://github.com/Alien-oyi/module9/blob/main/library/img/Screenshot%20(153).png?raw=true)
 
         ## Installation
         None
