@@ -8,7 +8,7 @@
         a
 
         ## Screenshot
-        ![Alt Text](a)
+        ![App Screenshot](https://github.com/Alien-oyi/module9/blob/main/library/img/Screenshot%20(153).png?raw=true)
 
         ## Installation
         a
@@ -23,8 +23,8 @@
         a
 
         ## If you have any questions?
-        a
-        a
+        feel free to reach: a
+                            a
 
         ## Lisence
         MIT 

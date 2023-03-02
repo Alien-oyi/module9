@@ -1,37 +1,37 @@
 class MarkDown {
     static placeAnswers(answers) {
         return `
-        # ${answers.title}
+# ${answers.title}
 
-        ## Description
-        ${answers.description}
+## Description
+${answers.description}
 
-        ## Deployed Link
-        ${answers.deployedLink}
+## Deployed Link
+${answers.deployedLink}
 
-        ## Screenshot
-        ![Alt Text](${answers.screenshot})
+## Screenshot
+![App Screenshot](${answers.screenshot})
 
-        ## Installation
-        ${answers.installation}
+## Installation
+${answers.installation}
 
-        ## Usage
-        ${answers.usage}
+## Usage
+${answers.usage}
 
-        ## Contributing
-        ${answers.contribution}
+## Contributing
+${answers.contribution}
 
-        ## Tests
-        ${answers.tests}
+## Tests
+${answers.tests}
 
-        ## If you have any questions?
-        ${answers.GitHub}
-        ${answers.email}
+## If you have any questions?
+feel free to reach: ${answers.GitHub}
+                    ${answers.email}
 
-        ## Lisence
-        ${answers.lisence} 
-        
-        `
+## Lisence
+${answers.lisence} 
+
+`
     }
 }
 

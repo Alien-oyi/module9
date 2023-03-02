@@ -69,7 +69,7 @@ function generateReadme() {
     return inquirer.prompt(questions)
     .then((answers)=>{
         const answersObj = MarkDown.placeAnswers(answers)
-        fs.writeFile("README.md",answersObj,function(err) {
+        fs.writeFile("./library/README.md",answersObj,function(err) {
             if(err) {
                 console.log(err,"Error");
             } else {
