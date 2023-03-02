@@ -25,8 +25,9 @@ ${answers.contribution}
 ${answers.tests}
 
 ## If you have any questions?
-feel free to reach:<br/> ${answers.GitHub}<br/>
-                    ${answers.email}
+feel free to reach:<br/> 
+${answers.GitHub}<br/>
+${answers.email}
 
 ## Lisence
 ${answers.lisence} 
