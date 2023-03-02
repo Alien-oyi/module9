@@ -1,32 +1,32 @@
 
-        # a
+        # README Generate
 
         ## Description
-        a
+        A node.js application that uses user input from inquirer to generate a README.md file for user repository
 
         ## Deployed Link
-        a
+        None
 
         ## Screenshot
-        ![Alt Text](a)
+        ![Alt Text](https://github.com/Alien-oyi/module9)
 
         ## Installation
-        a
+        None
 
         ## Usage
-        a
+        None
 
         ## Contributing
-        a
+        None
 
         ## Tests
-        a
+        None
 
         ## If you have any questions?
-        a
-        a
+        https://github.com/Alien-oyi/module9
+        daijinmin78@gmail.com
 
         ## Lisence
-        APACHE 
+        MIT 
         
         
