@@ -1,6 +1,7 @@
 const inquirer = require("inquirer")
 const fs = require ("fs")
-const MarkDown= require('./library/Markdown.js')
+const MarkDown= require('./library/Markdown.js');
+
 
 const questions = [
     {
@@ -27,7 +28,42 @@ const questions = [
         type:"input",
         name:'screenshot',
         message:"do you have any screenshot link of your project?"
+    },
+    {
+        type:"input",
+        name:'usage',
+        message:"how much usage does it take?"
+    },
+    {
+        type:"input",
+        name:'tests',
+        message:"any tests instructions?"
+    },
+    {
+        type:"input",
+        name:'email',
+        message:"what's your email?"
+    },
+    {
+        type:"input",
+        name:'contribution',
+        message:"any others contributing?"
+    },
+    {
+        type:"input",
+        name:'GitHub',
+        message:"what's your GitHub repo?"
+    },
+    {
+        type:"list",
+        name:'lisence',
+        message:"What license?",
+        choices:['MIT','Apache','BSD','GNU'],
+        filter(val) {
+            return val.toUpperCase();
+        }
     }
+    
 ]
 function generateReadme() {
     return inquirer.prompt(questions)

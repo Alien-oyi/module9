@@ -9,11 +9,27 @@ class MarkDown {
         ## Deployed Link
         ${answers.deployedLink}
 
+        ## Screenshot
+        ![Alt Text](${answers.screenshot})
+
         ## Installation
         ${answers.installation}
 
-        ## Screenshot
-        ![Alt Text](${answers.screenshot})
+        ## Usage
+        ${answers.usage}
+
+        ## Contributing
+        ${answers.contribution}
+
+        ## Tests
+        ${answers.tests}
+
+        ## If you have any questions?
+        ${answers.GitHub}
+        ${answers.email}
+
+        ## Lisence
+        ${answers.lisence} 
         
         `
     }
