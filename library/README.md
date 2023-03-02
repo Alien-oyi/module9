@@ -1,32 +1,31 @@
 
-        # a
+# README Generate
 
-        ## Description
-        a
+## Description
+A node.js application that uses user input from inquirer to generate a README.md file for user repository
 
-        ## Deployed Link
-        a
+## Deployed Link
+None
 
-        ## Screenshot
-        ![App Screenshot](https://github.com/Alien-oyi/module9/blob/main/library/img/Screenshot%20(153).png?raw=true)
+## Screenshot
+![App Screenshot](https://github.com/Alien-oyi/module9/blob/main/library/img/Screenshot%20(153).png?raw=true)
 
-        ## Installation
-        a
+## Installation
+npm i inquirer
 
-        ## Usage
-        a
+## Usage
+0.1MB
 
-        ## Contributing
-        a
+## Contributing
+None
 
-        ## Tests
-        a
+## Tests
+None
 
-        ## If you have any questions?
-        feel free to reach: a
-                            a
+## If you have any questions?
+feel free to reach: https://github.com/Alien-oyi/module9
+                    daijinmin78@gmail.com
 
-        ## Lisence
-        MIT 
-        
-        
+## Lisence
+MIT 
+
