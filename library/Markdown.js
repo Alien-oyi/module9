@@ -26,7 +26,7 @@ ${answers.tests}
 
 ## If you have any questions?
 feel free to reach:<br/> 
-${answers.GitHub}<br/>
+https://github.com/${answers.GitHubUserName}<br/>
 ${answers.email}
 
 ## Lisence

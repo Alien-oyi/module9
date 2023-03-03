@@ -51,8 +51,8 @@ const questions = [
     },
     {
         type:"input",
-        name:'GitHub',
-        message:"what's your GitHub repo?"
+        name:'GitHubUserName',
+        message:"what's your GitHub user name?"
     },
     {
         type:"list",
